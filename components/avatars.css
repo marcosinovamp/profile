@@ -1,8 +1,8 @@
 .circle_image{
-  width:100px;
-  height:100px;
+  width:400px;
+  height:400px;
   box-shadow:1px 1px rgb(100, 100, 100);
-  border-radius: 50px;
+  border-radius:200px;
   border-bottom:1px solid #264653;
 }
 
